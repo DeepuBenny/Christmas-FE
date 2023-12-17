@@ -25,7 +25,7 @@ export default function Input() {
   const handleClick = (e) => {
     e.preventDefault();
     const apiUrl =
-      "http://localhost:8080/friend?numericId=" + numericId;
+      "http://ec2-13-239-139-44.ap-southeast-2.compute.amazonaws.com:8080/friend?numericId=" + numericId;
     const fetchData = async () => {
       try {
         const response = await fetch(apiUrl);
