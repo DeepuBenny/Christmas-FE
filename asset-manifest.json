@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Christmas-FE/static/css/main.f855e6bc.css",
+    "main.js": "/Christmas-FE/static/js/main.b549e8cf.js",
+    "static/js/787.09ed1829.chunk.js": "/Christmas-FE/static/js/787.09ed1829.chunk.js",
+    "index.html": "/Christmas-FE/index.html",
+    "main.f855e6bc.css.map": "/Christmas-FE/static/css/main.f855e6bc.css.map",
+    "main.b549e8cf.js.map": "/Christmas-FE/static/js/main.b549e8cf.js.map",
+    "787.09ed1829.chunk.js.map": "/Christmas-FE/static/js/787.09ed1829.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b549e8cf.js"
+  ]
+}
